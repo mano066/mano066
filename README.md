@@ -32,38 +32,29 @@ These are my **personal AI sidekick initiatives**:
 
 ## 🔧 Skills & Tools
 
-**Agentic AI Framework:** OpenAI SDK, CrewAI, LangChain, Autogen, MCP
+**Agentic AI Framework**  
+![OpenAI](https://img.shields.io/badge/OpenAI-00BFFF?style=for-the-badge&logo=openai&logoColor=white) 
+![CrewAI](https://img.shields.io/badge/CrewAI-FF69B4?style=for-the-badge&logo=appveyor&logoColor=white) 
+![LangChain](https://img.shields.io/badge/LangChain-6E6E6E?style=for-the-badge&logo=python&logoColor=white) 
+![Autogen](https://img.shields.io/badge/Autogen-8A2BE2?style=for-the-badge&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-FF4500?style=for-the-badge&logoColor=white)
 
-**Artificial Intelligence:** Deep Learning, Computer Vision, Machine Learning
+**Artificial Intelligence**  
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-FF4500?style=for-the-badge) 
+![Computer Vision](https://img.shields.io/badge/Computer%20Vision-00FF7F?style=for-the-badge) 
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-1E90FF?style=for-the-badge)
 
-**Multi-Modal AI:** Large Language Models, Vision-based Models, Generative AI
+**Multi-Modal AI**  
+![LLM](https://img.shields.io/badge/LLM-9400D3?style=for-the-badge) 
+![Vision-based Models](https://img.shields.io/badge/Vision-20B2AA?style=for-the-badge) 
+![Generative AI](https://img.shields.io/badge/Generative-FF69B4?style=for-the-badge)
 
-**Deployment & Optimization:** ONNX, OpenVINO, INT8/FP16, Embedded AI
+**Deployment & Optimization**  
+![ONNX](https://img.shields.io/badge/ONNX-000000?style=for-the-badge&logo=onnx&logoColor=white) 
+![OpenVINO](https://img.shields.io/badge/OpenVINO-9400D3?style=for-the-badge&logoColor=white) 
+![INT8/FP16](https://img.shields.io/badge/INT8/FP16-FF8C00?style=for-the-badge) 
+![Embedded AI](https://img.shields.io/badge/Embedded%20AI-00CED1?style=for-the-badge)
 
----
-
-## 🎓 Education
-
-**M.Sc Aeronautical and Electronic Engineering (specialist in AI)**
-**National Formosa University, Taiwan** (04/2021 – 01/2023)
-
-* Thesis: Multi-Spectral Image-Based Air Quality Prediction using the Ensemble Learning Method
-* Awarded overall prize in **5G AI Competition**
-
----
-
-## 💼 Work Experience Highlights
-
-**AI Engineer – Intelligent Recognition Industry Service Centre, Taiwan** (06/2023 – 05/2024)
-
-* iTrash Recycling Detection – boosted detection accuracy by 50% and reduced sorting errors by 30%
-* Vertical-Line Mura Defect Detection for TFT-LCDs using VLM-YOLOGA and YOLOv8
-* Grinding wheel defect detection – awarded **AI+ Rising Talent 2023**
-
-**Research Fellow – Vel Tech Rangarajan Dr Sagunthala R\&D Institute, India** (07/2017 – 02/2021)
-
-* Led government-funded project (NIDHI PRAYAS, DST)
-* Integrated OpenCV-based onboard object detection system for UAVs
 
 ---
 
