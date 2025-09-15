@@ -67,15 +67,13 @@ These are my **personal AI sidekick initiatives**:
 
 ## 📚 Publications
 
-* *Enhancing PM2.5 Detection via Multi-Spectral Image-based Double Channel Ensemble Learning for Drones*, IEEE Sensors Journal, 30/07/2025
-* *Vertical-Line Mura Defect Detection for TFT-LCDs*, IEEE ACCESS, 25/10/2024
-* *Ensemble Learning-based Air Quality Prediction for Drones*, ACEAIT 2023, Japan
-* *Design of uncrewed amphibious aerial vehicle for in-situ water quality assessment*, ICIWRM 2022
-* *Multi-Spectral Image-Based Air Quality Prediction using Ensemble Learning*, CVGIP 2022
-* *Structural and CFD Analysis of Unmanned Aerial Vehicle*, INCAS Bulletin 2021
-* *Development of 3D Printed Floating Quadrotor for Collection of Algae*, Computers and Electronics in Agriculture, 2019
-* *Enhancing Air Quality Prediction with Ensemble Learning Using Aerial Multi-spectral Camera*, IEEE IoT Journal, under review
-
+* [Enhancing PM2.5 Detection via Multi-Spectral Image-based Double Channel Ensemble Learning for Drones](URL_HERE), **IEEE Sensors Journal**, 30/07/2025
+* [Vertical-Line Mura Defect Detection for TFT-LCDs](URL_HERE), **IEEE ACCESS**, 25/10/2024
+* [Ensemble Learning-based Air Quality Prediction for Drones](URL_HERE), **ACEAIT 2023, Japan**
+* [Design of uncrewed amphibious aerial vehicle for in-situ water quality assessment](URL_HERE), **ICIWRM 2022**
+* [Multi-Spectral Image-Based Air Quality Prediction using Ensemble Learning](URL_HERE), **CVGIP 2022**
+* [Structural and CFD Analysis of Unmanned Aerial Vehicle](URL_HERE), **INCAS Bulletin 2021**
+* [Development of 3D Printed Floating Quadrotor for Collection of Algae](URL_HERE), **Computers and Electronics in Agriculture, 2019**
 ---
 
 ## 🚀 Projects
