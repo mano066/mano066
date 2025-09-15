@@ -67,7 +67,7 @@ These are my **personal AI sidekick initiatives**:
 
 ## 📚 Publications
 
-* [Enhancing PM2.5 Detection via Multi-Spectral Image-based Double Channel Ensemble Learning for Drones](URL_HERE), **IEEE Sensors Journal**, 30/07/2025
+* [Enhancing PM2.5 Detection via Multi-Spectral Image-based Double Channel Ensemble Learning for Drones]([(https://ieeexplore.ieee.org/document/11098626)]), **IEEE Sensors Journal**, 30/07/2025
 * [Vertical-Line Mura Defect Detection for TFT-LCDs](URL_HERE), **IEEE ACCESS**, 25/10/2024
 * [Ensemble Learning-based Air Quality Prediction for Drones](URL_HERE), **ACEAIT 2023, Japan**
 * [Design of uncrewed amphibious aerial vehicle for in-situ water quality assessment](URL_HERE), **ICIWRM 2022**
