@@ -89,7 +89,7 @@ These are my **personal AI sidekick initiatives**:
 
 * [LinkedIn](https://www.linkedin.com/in/manova-m-509145157)
 * [Email](mailto:manomathew1943@gmail.com)
-* [Phone](tel:+886958334626)
+* [Phone](tel:886958334626)
 
 ---
 
